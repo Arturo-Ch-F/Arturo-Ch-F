@@ -1,6 +1,8 @@
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Arturo Chacon Flores - student Informatics Engineering</h1>
 <h3 align="center">A passionate TI engeenier from México</h3>
+- 🔭 I’m currently working on **Social service on computer and communications departament of the IPN departament**
 
+- 🌱 I’m currently learning **Web development and informatic security**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
