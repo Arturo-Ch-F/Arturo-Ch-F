@@ -2,7 +2,7 @@
 <h3 align="center">A passionate TI engeenier from México</h3>
 - 🔭 I’m currently working on **Social service on computer and communications departament of the IPN (computer networks and IP phones) **
 
-- 🌱 I’m currently learning **Web development and informatic security**
+- 🌱 I’m currently learning **Web development and cyber security**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
