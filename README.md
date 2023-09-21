@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/RxgEvCs.gif" width="300px"/>
 </h1>
 
-<h3 align="center">Apassionate TI engeenier from México</h3>
+<h3 align="center">Apassionate IT engeenier from México</h3>
 - 🔭 I’m currently working on **Social service in computer and communications department of the IPN (computer networks and IP phones) **
 
 - 🌱 I’m currently learning **Web development and cyber security**
